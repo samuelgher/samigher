@@ -69,11 +69,7 @@ export default function Contact() {
                 href="#"
                 className="w-10 h-10 rounded-full bg-gray-200 dark:bg-card-dark flex items-center justify-center text-gray-600 dark:text-gray-300 hover:bg-primary hover:text-white transition-all"
               >
-                <span className="sr-only">Behance</span>
-                <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24">
-                  <path d="M22 7h-7v-2h7v2zm1.726 10c-.442 1.297-2.029 3-5.187 3-4.013 0-7.427-1.747-7.427-5.598 0-4.01 3.242-6.326 7.159-6.326 4.124 0 7.025 2.316 6.941 5.629h-9.989c.162 2.375 2.502 3.518 4.779 3.518 1.95 0 3.013-.807 3.725-1.921l-.001.698zM16.92 10.368c-.144-1.93-2.289-2.274-3.418-2.274-2.541 0-3.793 1.341-4.178 2.274h7.596zm-13.92 6.632c-.934 0-1.765-.333-2.296-.902l1.636-1.637c.394.394.757.54 1.157.54.433 0 .72-.258.72-.619 0-.479-.508-.687-1.077-.92-1.354-.535-2.531-1.397-2.531-2.924 0-1.428 1.173-2.538 2.809-2.538 1.096 0 1.938.455 2.443.902l-1.558 1.636c-.477-.333-.787-.54-1.144-.54-.336 0-.616.235-.616.54 0 .375.452.604 1.107.892 1.355.578 2.496 1.401 2.496 2.923 0 1.547-1.259 2.647-3.146 2.647z"></path>
-                </svg>
-              </a>
+                
               <a
                 href="#"
                 className="w-10 h-10 rounded-full bg-gray-200 dark:bg-card-dark flex items-center justify-center text-gray-600 dark:text-gray-300 hover:bg-primary hover:text-white transition-all"
@@ -87,7 +83,7 @@ export default function Contact() {
           </div>
         </div>
         <div className="mt-16 text-center text-sm text-gray-500 dark:text-gray-600">
-          © 2024 Samuel Gebrezgiher. All Rights Reserved.
+          © 2026 Samuel Gebrezgiher. All Rights Reserved.
         </div>
       </div>
     </section>
