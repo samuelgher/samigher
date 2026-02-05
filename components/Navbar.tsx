@@ -36,7 +36,7 @@ export default function Navbar() {
           {/* Logo - Text Only as requested */}
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="font-display font-bold text-2xl tracking-tight text-gray-900 dark:text-white">
-              Samuel.
+              SAMUEL G.
             </Link>
           </div>
 
