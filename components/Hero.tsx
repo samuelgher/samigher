@@ -44,21 +44,11 @@ export default function Hero() {
               <p className="text-sm text-gray-500 dark:text-gray-500 mb-3">Expertise in</p>
               <div className="flex gap-4 opacity-70 grayscale hover:grayscale-0 transition-all duration-500">
                 {/* Replaced with generic icons or use the URLs if valid */}
-                <img
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuDVCL9ah1hSb2DhanlL6vmXI83hvI1s7hd18DsBl4zloP1Gjudf9Ch3iDkf7qNmsvbshW0ZuXRkZ63oUTJLA_wxHWwRuk9J8hR12BsqoLX67bDGEhr0qPRTxvEjPvXTtdKPClKF4l6LpjxaNHKBA1ASEUMjjm7Qgw6M93WAGHVLG-0-lO1m_uwOp3ukV7yaeVrmVPr2o1kk6j3IhLtZAjg2Kcg21h2OKzdNwTQIAXbX_N8Lpi7BkfEoCyDx1uDif3NsOPdnDcYsy9E"
-                    alt="Figma"
-                    className="h-8 w-8"
-                />
-                <img
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuAJx3N25UUj5vAJfnTcbL-AR0TN184zAaeJefx-aFX8gqMF051HxOMexGl58M9k7njBugvTH03xrv_08pg10D9gZ4V1U1h15-zaHoeXEtRn_RuFm50qTEcasTlGFX8TqOhXh4qL1YZsJ579dZxxb7XfiHWsG77jhwHPQUTdmP7LZ13HQvdDqSp1pqBtQmeThJp-s34wT2WTTI_6HgCkgxfG1k-sp2JuxnPftxaGoNUJHprdCYAwSsmVe_VH2hbeAMA6M4BkT-mCOKY"
-                    alt="Photoshop"
-                    className="h-8 w-8"
-                />
-                <img
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuALbwmXLC9UAT1aE1p_2SZvC5d_CaMV84PxtnuJvfonspnbC3xOwh48cmGClxMmHEWi6aSmc4YFZCtALiG_ZNuVAa3f3Q-QT8iGeMOGMuuPV20Aqo9k7I31YR5vRwNDykYjxl2UrQhtdKGFka1CTncTHiOPBRnHIaVerRYHzod9981Rr8t9qJBqFNszs1KoHkVV4YPK-W_3FyHi2gKi1x0wxQTclldOy0rfpbwlgB6vuyYWOdFoN1ceZPfkEqRG_-lycFEhkLe1DRI"
-                    alt="Illustrator"
-                    className="h-8 w-8 dark:invert"
-                />
+                <img src="/figma-icon.svg" alt="Figma Icon" className="w-10 h-10" />
+                
+                <img src="/adobe-photoshop-icon.svg" alt="Adobe Photoshop" className="w-10 h-10" />
+                
+                <img src="/adobe-illustrator-icon.svg" alt="Adobe Illustrator" className="w-10 h-10" />
               </div>
             </div>
           </div>
