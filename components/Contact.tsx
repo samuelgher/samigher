@@ -57,7 +57,7 @@ export default function Contact() {
             </h5>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://www.linkedin.com/in/samuelgher/"
                 className="w-10 h-10 rounded-full bg-gray-200 dark:bg-card-dark flex items-center justify-center text-gray-600 dark:text-gray-300 hover:bg-primary hover:text-white transition-all"
               >
                 <span className="sr-only">LinkedIn</span>
@@ -66,12 +66,7 @@ export default function Contact() {
                 </svg>
               </a>
               <a
-                href="#"
-                className="w-10 h-10 rounded-full bg-gray-200 dark:bg-card-dark flex items-center justify-center text-gray-600 dark:text-gray-300 hover:bg-primary hover:text-white transition-all"
-              >
-                
-              <a
-                href="#"
+                href="https://www.instagram.com/5.sg.art"
                 className="w-10 h-10 rounded-full bg-gray-200 dark:bg-card-dark flex items-center justify-center text-gray-600 dark:text-gray-300 hover:bg-primary hover:text-white transition-all"
               >
                 <span className="sr-only">Instagram</span>
