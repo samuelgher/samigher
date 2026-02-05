@@ -58,8 +58,8 @@ export default function Hero() {
             <div className="relative w-full max-w-md aspect-square">
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/30 to-transparent rounded-full blur-3xl transform scale-90"></div>
               <img
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuAD_QvUxyJsJ0ifG7MeppTH_ErFWcyDZdT_nCIgsZie29dL8Oh4LNf5HQYEvwyhzor2PTLV8A3B1EIfMMeoy2-EcL9PocU60Hm8T2sv6WllGcwyLCg3A2AMWww9xlpIdK8eq27dWV-iIg6bns96ph9Kft0LhC9tUxWCjlYKA6y4Kxc3T9kg-yl_INF4HJabLSgKGDDa22EoTfbMs3QPihts7emlapniESPyZh6TXNLZ17o318n7Zv-OfLxFPNYpntSC9g5SnMz4gKs"
-                alt="3D Avatar Representation of Samuel"
+                src="/sami-image.jpg"
+                alt="Samuel Image"
                 className="relative z-10 w-full h-full object-cover rounded-[3rem] shadow-2xl ring-1 ring-white/10 grayscale hover:grayscale-0 transition-all duration-500"
               />
 
